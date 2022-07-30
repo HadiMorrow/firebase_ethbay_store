@@ -1,0 +1,11 @@
+export { default as MainPage } from './MainPage'
+export { default as NavBar } from './NavBar'
+export { default as AddTask } from './AddTask'
+export { default as Products } from './Products'
+export { default as Admin } from './Admin/Admin'
+export { default as SellerPage } from './sellerPage'
+export { default as SellerForm } from './SellerForm'
+export { default as BuyerForm } from './BuyerrForm'
+export { default as Category } from './Category'
+
+export { default as Loader } from './Loader'
